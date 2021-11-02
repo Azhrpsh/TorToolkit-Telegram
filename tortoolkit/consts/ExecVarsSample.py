@@ -44,8 +44,8 @@ except:
         # MEGA CONFIG
         MEGA_ENABLE = True
         MEGA_API = "CdR0gBhA"
-        MEGA_UNAME = ujang.190821@gmail.com
-        MEGA_PASS = azharpasha205
+        MEGA_UNAME = "ujang.190821@gmail.com"
+        MEGA_PASS = "azharpasha205"
 
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
