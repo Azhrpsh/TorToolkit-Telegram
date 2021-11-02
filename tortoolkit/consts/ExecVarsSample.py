@@ -5,26 +5,26 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "f0411fdf11c084312fef79c1cee66bd9"
+        API_ID = 6010987
+        BOT_TOKEN = "2010195668:AAHDWBC1Jz6cCD1J_QH3q2YGD3W3a6hbu-c"
+        BASE_URL_OF_BOT = "https://telebotnew23.herokuapp.com/"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = []
-        OWNER_ID = 0
+        OWNER_ID = 1150804862
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
 
         # Time to wait before edit message
-        EDIT_SLEEP_SECS = 40
+        EDIT_SLEEP_SECS = 10
 
         # Telegram Upload Limit (in bytes)
-        TG_UP_LIMIT = 1700000000
+        TG_UP_LIMIT = 1073741824
 
         # Should force evething uploaded into Document
         FORCE_DOCUMENTS = False
@@ -36,16 +36,16 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+        DB_URI = "postgres://bwqunslfuixzlp:d049b7bda57f31eb44579a8c0d1833ef8d6cb8a64cdf7fcba0cf6fe54d33111c@ec2-44-199-158-170.compute-1.amazonaws.com:5432/ddru3akrj4927i"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
         
         # MEGA CONFIG
-        MEGA_ENABLE = False
-        MEGA_API = ""
-        MEGA_UNAME = None
-        MEGA_PASS = None
+        MEGA_ENABLE = True
+        MEGA_API = "	CdR0gBhA"
+        MEGA_UNAME = ujang.190821@gmail.com
+        MEGA_PASS = azharpasha205
 
         # The base direcory to which the files will be upload if using RCLONE
         RCLONE_BASE_DIR = "/"
