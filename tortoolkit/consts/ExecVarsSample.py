@@ -43,7 +43,7 @@ except:
         
         # MEGA CONFIG
         MEGA_ENABLE = True
-        MEGA_API = "	CdR0gBhA"
+        MEGA_API = "CdR0gBhA"
         MEGA_UNAME = ujang.190821@gmail.com
         MEGA_PASS = azharpasha205
 
